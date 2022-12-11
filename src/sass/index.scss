@@ -1,0 +1,39 @@
+@import "./common/reset";
+@import "./common/mixin";
+@import "./common/variables";
+@import "./component/navBar";
+@import "./component/card";
+@import  "./component/footer";
+@import  "./component/banner";
+@import  "./component/productPage";
+@import  "./component/SortField";
+@import  "./component/pagination";
+@import  "./component/filterContainer";
+@import  "./component/productListHeader";
+@import  "./component/singleCartItem";
+@import  "./component/productPageDesc";
+@import  "./component/cart";
+@import  "./component/accordion";
+@import  "./component/button";
+@import  "./component/productCalculation";
+@import  "./component/mobileFilterSidebar";
+@import "./Vendor/aem-grid";    
+@import  "./component/layout";
+@font-face {
+    font-family: Muli;
+
+    src:url(../font/Muli-Black.ttf);
+    src: url(../font/Muli-BlackItalic.ttf);
+    src: url(../font/Muli-Bold.ttf);
+    src: url(../font/Muli-BoldItalic.ttf);
+    src: url(../font/Muli-ExtraBold.ttf);
+    src: url(../font/Muli-ExtraBoldItalic.ttf);
+    src: url(../font/Muli-ExtraLight.ttf);
+    src: url(../font/Muli-ExtraLightItalic.ttf);
+    src: url(../font/Muli-Italic.ttf);
+    src: url(../font/Muli-Light.ttf);
+    src: url(../font/Muli-LightItalic.ttf);
+    src: url(../font/Muli-Regular.ttf);
+    src: url(../font/Muli-SemiBold.ttf);
+    src: url(../font/Muli-SemiBoldItalic.ttf);
+}
